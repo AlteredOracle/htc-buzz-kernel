@@ -1,6 +1,6 @@
 #
 # Automatically generated make config: don't edit
-# Linux kernel version: 2.6.35.14
+# Linux kernel version: 2.6.36.1
 # Sun Dec 18 06:57:07 2011
 #
 CONFIG_ARM=y
@@ -35,7 +35,7 @@ CONFIG_BROKEN_ON_SMP=y
 CONFIG_LOCK_KERNEL=y
 CONFIG_INIT_ENV_ARG_LIMIT=32
 CONFIG_CROSS_COMPILE=""
-CONFIG_LOCALVERSION="-SympFinity"
+CONFIG_LOCALVERSION="-faZevoLv"
 # CONFIG_LOCALVERSION_AUTO is not set
 CONFIG_HAVE_KERNEL_GZIP=y
 CONFIG_HAVE_KERNEL_BZIP2=y
